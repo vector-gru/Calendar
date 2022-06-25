@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.util.ArrayList;
 
 class CalendarAdapter extends RecyclerView.Adapter<CalendarViewHolder>
+
 {
     private final ArrayList<String> daysOfMonth;
     private final OnItemListener onItemListener;
