@@ -9,5 +9,14 @@
     <string name="name">Name:</string>
     <string name="save">Save</string>
     <string name="event">Event</string>
+    <string name="view_weeks">View weeks</string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thur">THUR</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="view_days">View Days</string>
 
 </resources>
